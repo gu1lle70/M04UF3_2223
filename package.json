@@ -1,0 +1,19 @@
+{
+  "name": "entiinvaders",
+  "version": "1.0.0",
+  "description": "Asignatura llenguatge de marques UF3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gu1lle70/M04UF3_2223.git"
+  },
+  "author": "Guillem Salas",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gu1lle70/M04UF3_2223/issues"
+  },
+  "homepage": "https://github.com/gu1lle70/M04UF3_2223#readme"
+}
